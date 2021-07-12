@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1612823368 source:c:\users\user\desktop\code utn 1.2\tpfinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	<locale.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"productos.h"
+	"proveedores.h"
+	"ventas.h"
+
+1607559660 c:\users\user\desktop\code utn 1.2\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1612904570 c:\users\user\desktop\code utn 1.2\tpfinal\ventas.h
+
+1612904787 c:\users\user\desktop\code utn 1.2\tpfinal\productos.h
+
+1608216870 c:\users\user\desktop\code utn 1.2\tpfinal\proveedores.h
+
+1605663798 source:c:\users\acblanar\desktop\santi\tpfinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	<locale.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"productos.h"
+	"ventas.h"
+	"proveedores.h"
+
+1605661994 c:\users\acblanar\desktop\santi\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605666910 c:\users\acblanar\desktop\santi\tpfinal\ventas.h
+
+1605663475 c:\users\acblanar\desktop\santi\tpfinal\productos.h
+
+1605668811 c:\users\acblanar\desktop\santi\tpfinal\proveedores.h
+
+1606231015 c:\users\user\desktop\code utn 1.2\tpfinal\apariencia.h
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
+1607966738 source:c:\users\usuario\desktop\code utn 1.2\tpfinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	<locale.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"productos.h"
+	"proveedores.h"
+	"ventas.h"
+
+1607559660 c:\users\usuario\desktop\code utn 1.2\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607973282 c:\users\usuario\desktop\code utn 1.2\tpfinal\proveedores.h
+
+1607968204 c:\users\usuario\desktop\code utn 1.2\tpfinal\productos.h
+
+1607559660 c:\users\usuario\desktop\code utn 1.2\tpfinal\ventas.h
+
+1607966740 source:c:\users\user\downloads\code utn 1.2\tpfinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	<locale.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	"productos.h"
+	"proveedores.h"
+	"ventas.h"
+
+1607559660 c:\users\user\downloads\code utn 1.2\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608159087 c:\users\user\downloads\code utn 1.2\tpfinal\productos.h
+
+1608159702 c:\users\user\downloads\code utn 1.2\tpfinal\proveedores.h
+
+1608161646 c:\users\user\downloads\code utn 1.2\tpfinal\ventas.h
+
+1613595573 source:c:\users\user\desktop\santi\tp final\main.cpp
+	<iostream>
+	"rlutil.h"
+	<locale.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+	<ctime>
+	"productos.h"
+	"proveedores.h"
+	"ventas.h"
+
+1613084584 c:\users\user\desktop\santi\tp final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1614179870 c:\users\user\desktop\santi\tp final\productos.h
+
+1614121497 c:\users\user\desktop\santi\tp final\proveedores.h
+
+1614121368 c:\users\user\desktop\santi\tp final\ventas.h
+
